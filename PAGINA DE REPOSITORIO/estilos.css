@@ -1,0 +1,177 @@
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    background-image: url("./img/CRODE.jpg" ); height:132px; width: 1200px;
+      background-repeat: no-repeat;  
+    color:black;
+    
+}
+
+h2 {
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+h3 { 
+    font-size: 25px;
+    font-family: sans-serif;
+    color:black;
+    vertical-align: bottom;
+    width: 900px;
+    text-align: justify;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+.menu li {
+    font-size: 28px;
+    font-family: sans-serif;
+    list-style: none;
+    padding: 5px 5px 5px 5px;
+    display: "inline-block";
+}
+
+a {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: right;
+    background:hsl(189, 91%, 34%);
+    color:white;
+    text-decoration:none ;
+    margin: 50px 10px 10px 10px;
+    display:inline-block;
+    padding: 10px 20px;
+    box-shadow: 0px 10px 0px #088da5;   
+    position: relative;
+    bottom: 300px;
+    left: 400px;
+}
+
+a:hover {
+    box-shadow: 0px 2px 0px #088da5;
+}
+
+body {
+    width: 1250px;
+    
+    margin-right: 50px;  
+    margin-left: 50px; 
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-image: url("https://images3.alphacoders.com/822/822224.jpg");
+    height:300px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+img {
+    vertical-align: bottom;
+    box-align:"right";
+    width: 400px; height: 200px;
+}
+
+i {
+width: 100px;
+right: 40px;
+font-size: 70px;
+}
+
+.contenedor{
+width: 100%;
+}
+
+.lista{
+    background:hsl(189, 91%, 34%);
+    color:white;
+    text-decoration:none ;
+    margin: 50px 10px 10px 10px;
+    display:inline-block;
+    padding: 10px 20px;
+    box-shadow: 0px 10px 0px #088da5;
+}
+
+.lista2{
+   position: relative;
+    bottom: 0px;
+    left: 20px;
+    background:hsl(189, 91%, 34%);
+    color:white;
+    text-decoration:none ;
+    margin: 50px 10px 10px 10px;
+    display:inline-block;
+    padding: 10px 20px;
+    box-shadow: 0px 10px 0px #088da5;
+}
+
+.lista3{
+    position: relative;
+    bottom: 0px;
+    left: 50px;
+    background:hsl(189, 91%, 34%);
+    color:white;
+    text-decoration:none ;
+    margin: 50px 10px 10px 10px;
+    display:inline-block;
+    padding: 10px 20px;
+    box-shadow: 0px 10px 0px #088da5;
+}
+
+.lista4{
+    position: relative;
+    bottom: 0px;
+    left: 50px;
+    background:hsl(189, 91%, 34%);
+    color:white;
+    text-decoration:none ;
+    margin: 50px 10px 10px 10px;
+    display:inline-block;
+    padding: 10px 20px;
+    box-shadow: 0px 10px 0px #088da5;
+}
+
+
+.caja1{
+    position: relative;
+    bottom: 43px;
+    left: 250px;
+    background:hsl(189, 91%, 34%);
+    color:white;
+    text-decoration:none ;
+    margin: 50px 10px 10px 10px;
+    display:inline-block;
+    padding: 10px 20px;
+    box-shadow: 0px 10px 0px #088da5;
+}
+
+
+.link{
+    position: relative;
+    text-align: center;
+    bottom: 100px;
+}
+ 
+.link2{
+    position: relative;
+    top: 500pxs;
+    left: 550px;
+    
+}
+
+.link3{
+    position: relative;
+    top: 150px;
+    right: 400px;
+    color:black;
+    
+}
+
+.link4{
+    position: relative;
+    top: 50px;
+}
